@@ -6,3 +6,4 @@ daftar menu restoran
 - nasi goreng
 - mie goreng
 - nasi padang
+- mie ayam
